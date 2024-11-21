@@ -42,6 +42,6 @@ span {
   -o-border-radius: 6px;
 }
 .box:hover {
-  background-color: #ffc107;
+  background-color: #1ecbc3;
   cursor: pointer;
 }
